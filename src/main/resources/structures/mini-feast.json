@@ -1,0 +1,3148 @@
+{
+  "name": "mini-feast",
+  "blocks": [
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -7.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": -6.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": -6.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": -3.0,
+      "y": 0.0,
+      "z": -6.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": -2.0,
+      "y": 0.0,
+      "z": -6.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 2
+    },
+    {
+      "x": -1.0,
+      "y": 0.0,
+      "z": -6.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -6.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 0.0,
+      "z": -6.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 0.0,
+      "z": -6.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 2
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": -6.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": -6.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": -6.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -6.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": -1.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": 6.0,
+      "y": 0.0,
+      "z": -5.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -6.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": -2.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": 6.0,
+      "y": 0.0,
+      "z": -4.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": -6.0,
+      "y": 0.0,
+      "z": -3.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": -3.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": -3.0,
+      "y": 0.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 0.0,
+      "z": -3.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 0.0,
+      "z": -3.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 0.0,
+      "z": -3.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 0.0,
+      "z": -3.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": -3.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": 6.0,
+      "y": 0.0,
+      "z": -3.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": -6.0,
+      "y": 0.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 0
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 0.0,
+      "z": -2.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 0.0,
+      "z": -2.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 0.0,
+      "z": -2.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": -2.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": 6.0,
+      "y": 0.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 1
+    },
+    {
+      "x": -6.0,
+      "y": 0.0,
+      "z": -1.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": -1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": -1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 0.0,
+      "z": -1.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -1.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": -1.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": -1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": -1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 6.0,
+      "y": 0.0,
+      "z": -1.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -7.0,
+      "y": 0.0,
+      "z": 0.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -6.0,
+      "y": 0.0,
+      "z": 0.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": 0.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": 0.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 0.0,
+      "z": 0.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "material_name": "COAL_BLOCK",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 0.0,
+      "z": 0.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": 0.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": 0.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 6.0,
+      "y": 0.0,
+      "z": 0.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 7.0,
+      "y": 0.0,
+      "z": 0.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -6.0,
+      "y": 0.0,
+      "z": 1.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": 1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": 1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 0.0,
+      "z": 1.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": 1.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": 1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": 1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 6.0,
+      "y": 0.0,
+      "z": 1.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -6.0,
+      "y": 0.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 0
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 0.0,
+      "z": 2.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 0.0,
+      "z": 2.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 0.0,
+      "z": 2.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": 2.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": 6.0,
+      "y": 0.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 1
+    },
+    {
+      "x": -6.0,
+      "y": 0.0,
+      "z": 3.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": 3.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": -3.0,
+      "y": 0.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 0.0,
+      "z": 3.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 0.0,
+      "z": 3.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 0.0,
+      "z": 3.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 0.0,
+      "z": 3.0,
+      "material_name": "ENDER_PORTAL",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": 3.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": 6.0,
+      "y": 0.0,
+      "z": 3.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": -6.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": -2.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": 6.0,
+      "y": 0.0,
+      "z": 4.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": -6.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": -1.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "GRASS",
+      "material_data": 0
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": 6.0,
+      "y": 0.0,
+      "z": 5.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": 6.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": 6.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": -3.0,
+      "y": 0.0,
+      "z": 6.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": -2.0,
+      "y": 0.0,
+      "z": 6.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 3
+    },
+    {
+      "x": -1.0,
+      "y": 0.0,
+      "z": 6.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 6.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 0.0,
+      "z": 6.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 0.0,
+      "z": 6.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 3
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": 6.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": 4.0,
+      "y": 0.0,
+      "z": 6.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": 5.0,
+      "y": 0.0,
+      "z": 6.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 7.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 1.0,
+      "z": -5.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": 0.0,
+      "y": 1.0,
+      "z": -5.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 1.0,
+      "z": -5.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": -3.0,
+      "y": 1.0,
+      "z": -4.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 1.0,
+      "z": -4.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 1.0,
+      "z": -4.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 1.0,
+      "z": -4.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 1.0,
+      "y": 1.0,
+      "z": -4.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 1.0,
+      "z": -4.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 1.0,
+      "z": -4.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 1
+    },
+    {
+      "x": -4.0,
+      "y": 1.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 2
+    },
+    {
+      "x": -3.0,
+      "y": 1.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 1.0,
+      "z": -3.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": -1.0,
+      "y": 1.0,
+      "z": -3.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 0.0,
+      "y": 1.0,
+      "z": -3.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 1.0,
+      "y": 1.0,
+      "z": -3.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 2.0,
+      "y": 1.0,
+      "z": -3.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 3.0,
+      "y": 1.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 1.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 2
+    },
+    {
+      "x": -5.0,
+      "y": 1.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": -4.0,
+      "y": 1.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 1.0,
+      "z": -2.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": -2.0,
+      "y": 1.0,
+      "z": -2.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": -1.0,
+      "y": 1.0,
+      "z": -2.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 0.0,
+      "y": 1.0,
+      "z": -2.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 1.0,
+      "y": 1.0,
+      "z": -2.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 2.0,
+      "y": 1.0,
+      "z": -2.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 3.0,
+      "y": 1.0,
+      "z": -2.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 4.0,
+      "y": 1.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 5.0,
+      "y": 1.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": -4.0,
+      "y": 1.0,
+      "z": -1.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 1.0,
+      "z": -1.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": -2.0,
+      "y": 1.0,
+      "z": -1.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": -1.0,
+      "y": 1.0,
+      "z": -1.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 0.0,
+      "y": 1.0,
+      "z": -1.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 1.0,
+      "y": 1.0,
+      "z": -1.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 2.0,
+      "y": 1.0,
+      "z": -1.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 3.0,
+      "y": 1.0,
+      "z": -1.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 4.0,
+      "y": 1.0,
+      "z": -1.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -5.0,
+      "y": 1.0,
+      "z": 0.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -4.0,
+      "y": 1.0,
+      "z": 0.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": -3.0,
+      "y": 1.0,
+      "z": 0.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": -2.0,
+      "y": 1.0,
+      "z": 0.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": -1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "material_name": "STATIONARY_WATER",
+      "material_data": 8
+    },
+    {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 0.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 3.0,
+      "y": 1.0,
+      "z": 0.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 4.0,
+      "y": 1.0,
+      "z": 0.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 0.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -4.0,
+      "y": 1.0,
+      "z": 1.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 1.0,
+      "z": 1.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": -2.0,
+      "y": 1.0,
+      "z": 1.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": -1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 1.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 1.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 3.0,
+      "y": 1.0,
+      "z": 1.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 4.0,
+      "y": 1.0,
+      "z": 1.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": -5.0,
+      "y": 1.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": -4.0,
+      "y": 1.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 1.0,
+      "z": 2.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": -2.0,
+      "y": 1.0,
+      "z": 2.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": -1.0,
+      "y": 1.0,
+      "z": 2.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 2.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 2.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 2.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 3.0,
+      "y": 1.0,
+      "z": 2.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 4.0,
+      "y": 1.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": -4.0,
+      "y": 1.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 3
+    },
+    {
+      "x": -3.0,
+      "y": 1.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 1.0,
+      "z": 3.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": -1.0,
+      "y": 1.0,
+      "z": 3.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 3.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 3.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 3.0,
+      "material_name": "STAINED_GLASS",
+      "material_data": 10
+    },
+    {
+      "x": 3.0,
+      "y": 1.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 1.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 3
+    },
+    {
+      "x": -3.0,
+      "y": 1.0,
+      "z": 4.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 1.0,
+      "z": 4.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 1.0,
+      "z": 4.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 4.0,
+      "material_name": "STAINED_CLAY",
+      "material_data": 14
+    },
+    {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 4.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 4.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 1.0,
+      "z": 4.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 1
+    },
+    {
+      "x": -2.0,
+      "y": 1.0,
+      "z": 5.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 5.0,
+      "material_name": "STEP",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 5.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": -2.0,
+      "y": 2.0,
+      "z": -4.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 2.0,
+      "z": -4.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 2.0,
+      "z": -3.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 2.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 2.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 2.0,
+      "z": -3.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": -4.0,
+      "y": 2.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 2.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 2.0,
+      "z": -2.0,
+      "material_name": "WORKBENCH",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 2.0,
+      "z": -2.0,
+      "material_name": "WORKBENCH",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 2.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 2.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 2.0,
+      "z": -1.0,
+      "material_name": "CHEST",
+      "material_data": 2
+    },
+    {
+      "x": -1.0,
+      "y": 2.0,
+      "z": 0.0,
+      "material_name": "CHEST",
+      "material_data": 4
+    },
+    {
+      "x": 0.0,
+      "y": 2.0,
+      "z": 0.0,
+      "material_name": "STATIONARY_WATER",
+      "material_data": 8
+    },
+    {
+      "x": 1.0,
+      "y": 2.0,
+      "z": 0.0,
+      "material_name": "CHEST",
+      "material_data": 5
+    },
+    {
+      "x": 0.0,
+      "y": 2.0,
+      "z": 1.0,
+      "material_name": "CHEST",
+      "material_data": 3
+    },
+    {
+      "x": -4.0,
+      "y": 2.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 2.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 2.0,
+      "z": 2.0,
+      "material_name": "WORKBENCH",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 2.0,
+      "z": 2.0,
+      "material_name": "WORKBENCH",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 2.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 2.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 2.0,
+      "z": 3.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 2.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 2.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 2.0,
+      "z": 3.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 2.0,
+      "z": 4.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 2.0,
+      "z": 4.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 3.0,
+      "z": -4.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": 2.0,
+      "y": 3.0,
+      "z": -4.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": -3.0,
+      "y": 3.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 3.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 3.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 3.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -4.0,
+      "y": 3.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": -3.0,
+      "y": 3.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 3.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 3.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": 0.0,
+      "y": 3.0,
+      "z": 0.0,
+      "material_name": "STATIONARY_WATER",
+      "material_data": 8
+    },
+    {
+      "x": -4.0,
+      "y": 3.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": -3.0,
+      "y": 3.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 3.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 4.0,
+      "y": 3.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": -3.0,
+      "y": 3.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 3.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 3.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 3.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 3.0,
+      "z": 4.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": 2.0,
+      "y": 3.0,
+      "z": 4.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": -3.0,
+      "y": 4.0,
+      "z": -3.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 4.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 4.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 4.0,
+      "z": -3.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 4.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 4.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 4.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 4.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 4.0,
+      "z": 0.0,
+      "material_name": "STATIONARY_WATER",
+      "material_data": 8
+    },
+    {
+      "x": -3.0,
+      "y": 4.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 4.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 4.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 4.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 4.0,
+      "z": 3.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 4.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 4.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 4.0,
+      "z": 3.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 5.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 5.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": -1.0,
+      "y": 5.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 1
+    },
+    {
+      "x": 0.0,
+      "y": 5.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": 1.0,
+      "y": 5.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 5.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": 3.0,
+      "y": 5.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 5.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": -2.0,
+      "y": 5.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 5.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": 1.0,
+      "y": 5.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": 2.0,
+      "y": 5.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 5.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": -3.0,
+      "y": 5.0,
+      "z": -1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 3
+    },
+    {
+      "x": -2.0,
+      "y": 5.0,
+      "z": -1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": 2.0,
+      "y": 5.0,
+      "z": -1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": 3.0,
+      "y": 5.0,
+      "z": -1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 3
+    },
+    {
+      "x": -3.0,
+      "y": 5.0,
+      "z": 0.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": 0.0,
+      "y": 5.0,
+      "z": 0.0,
+      "material_name": "STATIONARY_WATER",
+      "material_data": 8
+    },
+    {
+      "x": 3.0,
+      "y": 5.0,
+      "z": 0.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": -3.0,
+      "y": 5.0,
+      "z": 1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 2
+    },
+    {
+      "x": -2.0,
+      "y": 5.0,
+      "z": 1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": 2.0,
+      "y": 5.0,
+      "z": 1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": 3.0,
+      "y": 5.0,
+      "z": 1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 2
+    },
+    {
+      "x": -3.0,
+      "y": 5.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": -2.0,
+      "y": 5.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 5.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": 1.0,
+      "y": 5.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": 2.0,
+      "y": 5.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 5.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": -3.0,
+      "y": 5.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 5.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": -1.0,
+      "y": 5.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 1
+    },
+    {
+      "x": 0.0,
+      "y": 5.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": 1.0,
+      "y": 5.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 5.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": 3.0,
+      "y": 5.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 6.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 2
+    },
+    {
+      "x": -2.0,
+      "y": 6.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 2
+    },
+    {
+      "x": 0.0,
+      "y": 6.0,
+      "z": -3.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": 2.0,
+      "y": 6.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 2
+    },
+    {
+      "x": 3.0,
+      "y": 6.0,
+      "z": -3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 1
+    },
+    {
+      "x": -3.0,
+      "y": 6.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 6.0,
+      "z": -2.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 6.0,
+      "z": -2.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": 0.0,
+      "y": 6.0,
+      "z": -2.0,
+      "material_name": "STEP",
+      "material_data": 13
+    },
+    {
+      "x": 1.0,
+      "y": 6.0,
+      "z": -2.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": 2.0,
+      "y": 6.0,
+      "z": -2.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 6.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 1
+    },
+    {
+      "x": -2.0,
+      "y": 6.0,
+      "z": -1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": 0.0,
+      "y": 6.0,
+      "z": -1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": 2.0,
+      "y": 6.0,
+      "z": -1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": -3.0,
+      "y": 6.0,
+      "z": 0.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -2.0,
+      "y": 6.0,
+      "z": 0.0,
+      "material_name": "STEP",
+      "material_data": 13
+    },
+    {
+      "x": -1.0,
+      "y": 6.0,
+      "z": 0.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": 0.0,
+      "y": 6.0,
+      "z": 0.0,
+      "material_name": "STATIONARY_WATER",
+      "material_data": 8
+    },
+    {
+      "x": 1.0,
+      "y": 6.0,
+      "z": 0.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": 2.0,
+      "y": 6.0,
+      "z": 0.0,
+      "material_name": "STEP",
+      "material_data": 13
+    },
+    {
+      "x": 3.0,
+      "y": 6.0,
+      "z": 0.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -2.0,
+      "y": 6.0,
+      "z": 1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": 0.0,
+      "y": 6.0,
+      "z": 1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": 2.0,
+      "y": 6.0,
+      "z": 1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": -3.0,
+      "y": 6.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 6.0,
+      "z": 2.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 6.0,
+      "z": 2.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": 0.0,
+      "y": 6.0,
+      "z": 2.0,
+      "material_name": "STEP",
+      "material_data": 13
+    },
+    {
+      "x": 1.0,
+      "y": 6.0,
+      "z": 2.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": 2.0,
+      "y": 6.0,
+      "z": 2.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": 3.0,
+      "y": 6.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 1
+    },
+    {
+      "x": -3.0,
+      "y": 6.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 6.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 3
+    },
+    {
+      "x": 0.0,
+      "y": 6.0,
+      "z": 3.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": 2.0,
+      "y": 6.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 3
+    },
+    {
+      "x": 3.0,
+      "y": 6.0,
+      "z": 3.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 3
+    },
+    {
+      "x": -2.0,
+      "y": 7.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 7.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 7.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 6
+    },
+    {
+      "x": 1.0,
+      "y": 7.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 1
+    },
+    {
+      "x": 2.0,
+      "y": 7.0,
+      "z": -2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -2.0,
+      "y": 7.0,
+      "z": -1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 2
+    },
+    {
+      "x": 0.0,
+      "y": 7.0,
+      "z": -1.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 7.0,
+      "z": -1.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 7.0,
+      "z": -1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 2
+    },
+    {
+      "x": -2.0,
+      "y": 7.0,
+      "z": 0.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 4
+    },
+    {
+      "x": -1.0,
+      "y": 7.0,
+      "z": 0.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 7.0,
+      "z": 0.0,
+      "material_name": "STATIONARY_WATER",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 7.0,
+      "z": 0.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 7.0,
+      "z": 0.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 5
+    },
+    {
+      "x": -2.0,
+      "y": 7.0,
+      "z": 1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 3
+    },
+    {
+      "x": 0.0,
+      "y": 7.0,
+      "z": 1.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 2.0,
+      "y": 7.0,
+      "z": 1.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 3
+    },
+    {
+      "x": -2.0,
+      "y": 7.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 7.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 7.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 7
+    },
+    {
+      "x": 1.0,
+      "y": 7.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_STAIRS",
+      "material_data": 1
+    },
+    {
+      "x": 2.0,
+      "y": 7.0,
+      "z": 2.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 8.0,
+      "z": -2.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -1.0,
+      "y": 8.0,
+      "z": -1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": 0.0,
+      "y": 8.0,
+      "z": -1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": 1.0,
+      "y": 8.0,
+      "z": -1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": -2.0,
+      "y": 8.0,
+      "z": 0.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -1.0,
+      "y": 8.0,
+      "z": 0.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": 0.0,
+      "y": 8.0,
+      "z": 0.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 8.0,
+      "z": 0.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": 2.0,
+      "y": 8.0,
+      "z": 0.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -1.0,
+      "y": 8.0,
+      "z": 1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": 0.0,
+      "y": 8.0,
+      "z": 1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": 1.0,
+      "y": 8.0,
+      "z": 1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 5
+    },
+    {
+      "x": 0.0,
+      "y": 8.0,
+      "z": 2.0,
+      "material_name": "STEP",
+      "material_data": 5
+    },
+    {
+      "x": -1.0,
+      "y": 9.0,
+      "z": -1.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 9.0,
+      "z": -1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": 1.0,
+      "y": 9.0,
+      "z": -1.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 9.0,
+      "z": 0.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": 0.0,
+      "y": 9.0,
+      "z": 0.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 9.0,
+      "z": 0.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": -1.0,
+      "y": 9.0,
+      "z": 1.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 9.0,
+      "z": 1.0,
+      "material_name": "DOUBLE_STEP",
+      "material_data": 8
+    },
+    {
+      "x": 1.0,
+      "y": 9.0,
+      "z": 1.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 10.0,
+      "z": -1.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": -1.0,
+      "y": 10.0,
+      "z": 0.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 10.0,
+      "z": 0.0,
+      "material_name": "SMOOTH_BRICK",
+      "material_data": 0
+    },
+    {
+      "x": 1.0,
+      "y": 10.0,
+      "z": 0.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 10.0,
+      "z": 1.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": 0.0,
+      "y": 11.0,
+      "z": 0.0,
+      "material_name": "COBBLE_WALL",
+      "material_data": 0
+    },
+    {
+      "x": 5.0,
+      "y": 1.0,
+      "z": -4.0,
+      "material_name": "YELLOW_FLOWER",
+      "material_data": 0
+    },
+    {
+      "x": -3.0,
+      "y": 1.0,
+      "z": 5.0,
+      "material_name": "YELLOW_FLOWER",
+      "material_data": 0
+    },
+    {
+      "x": -5.0,
+      "y": 1.0,
+      "z": 3.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": -4.0,
+      "y": 1.0,
+      "z": 5.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 4.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": 4.0,
+      "y": 1.0,
+      "z": 4.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": -4.0,
+      "y": 1.0,
+      "z": 4.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": -5.0,
+      "y": 1.0,
+      "z": 4.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": 5.0,
+      "y": 1.0,
+      "z": 3.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": 3.0,
+      "y": 1.0,
+      "z": 5.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": 5.0,
+      "y": 1.0,
+      "z": -3.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": -5.0,
+      "y": 1.0,
+      "z": -3.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": 4.0,
+      "y": 1.0,
+      "z": 5.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": 4.0,
+      "y": 1.0,
+      "z": -4.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": -4.0,
+      "y": 1.0,
+      "z": -4.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": -5.0,
+      "y": 1.0,
+      "z": -4.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": 4.0,
+      "y": 1.0,
+      "z": -5.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": 3.0,
+      "y": 1.0,
+      "z": -5.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": -3.0,
+      "y": 1.0,
+      "z": -5.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    },
+    {
+      "x": -4.0,
+      "y": 1.0,
+      "z": -5.0,
+      "material_name": "LONG_GRASS",
+      "material_data": 1
+    }
+  ]
+}
